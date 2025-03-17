@@ -6,6 +6,10 @@ public class MainClass {
 		
 		Arithmatic addition=new Arithmatic();
 		addition.add(10, 20);
+		Arithmatic subtraction=new Arithmatic();
+		subtraction.sub(30, 10);
 	}
+	
+
 
 }
