@@ -12,6 +12,6 @@ public class Arithmatic {
 	  }
 	  
 	  public void display() {
-		  System.out.println("hello world java::"+123);
+		  System.out.println("hello world java::"+789);
 	  }
 }
