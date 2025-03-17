@@ -9,4 +9,8 @@ public class Transaction {
 	 public void deposit() {
 		 System.out.println("2000 deposited sucessfully");
 	 }
+	 
+	 public void balance() {
+		 System.out.println("Toatal balance is 100000");
+	 }
 }
