@@ -10,4 +10,8 @@ public class Arithmatic {
 		  
 		  System.out.println("subtraction of two numbers:"+(a-b));
 	  }
+	  
+	  public void display() {
+		  System.out.println("hello world java::"+123);
+	  }
 }
