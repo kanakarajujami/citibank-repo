@@ -5,4 +5,8 @@ public class Transaction {
 	 public void withdraw() {
 		 System.out.println("10000 withdrawn successfully..");
 	 }
+	 
+	 public void deposit() {
+		 System.out.println("2000 deposited sucessfully");
+	 }
 }
