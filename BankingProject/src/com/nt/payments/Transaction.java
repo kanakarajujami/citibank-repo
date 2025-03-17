@@ -11,6 +11,10 @@ public class Transaction {
 	 }
 	 
 	 public void balance() {
+
 		 System.out.println("Toatal balance is 200000");
+
+	
+
 	 }
 }
