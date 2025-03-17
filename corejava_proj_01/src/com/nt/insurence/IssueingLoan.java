@@ -9,4 +9,9 @@ public class IssueingLoan {
 	public void interest() {
 		System.out.println("Interest amount is 5 percentage:");
 	}
+	
+	public void renewal() {
+		System.out.println("Every year you should renewal the process:");
+	}
+	
 }
